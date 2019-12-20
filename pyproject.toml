@@ -6,6 +6,7 @@ authors = ["Daniel Rich <drich@nav.com>"]
 
 [tool.poetry.dependencies]
 python = "^3.7"
+gym-donkeycar = "^1.0.13"
 
 [tool.poetry.dev-dependencies]
 pytest = "^5.2"
